@@ -10,6 +10,7 @@
   "license": "ISC",
   "dependencies": {
     "deep-equal": "^2.0.5",
+    "fs": "0.0.1-security",
     "mocha": "^9.0.3",
     "wish": "^1.0.1"
   }
